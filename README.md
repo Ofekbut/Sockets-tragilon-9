@@ -18,4 +18,10 @@
 
 ![10.png](proof%2F10.png)
 
+![11.png](proof%2F11.png)
+
+![12.png](proof%2F12.png)
+
+![13.png](proof%2F13.png)
+
 link: https://github.com/Ofekbut/Sockets-tragilon-9.git
